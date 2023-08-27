@@ -74,8 +74,8 @@ nav ul li a:hover:after{
 }
 .content{
     position: absolute;
-    top: 19%;
-    left: 5%;
+    top: 18.5%;
+    left: 6%;
 }
 .content h1{
     font-size: 105px;
@@ -83,7 +83,7 @@ nav ul li a:hover:after{
     line-height: 90px;
     text-transform: inherit;
     width: 100%;
-    margin-bottom: -10px;
+    margin-bottom: -5px;
 }
 .content span{
     color: crimson;
@@ -96,7 +96,7 @@ nav ul li a:hover:after{
     margin-left: 8px;
 }
 .Aboutme h3{
-    margin-top: 55px;
+    margin-top: 60px;
     margin-left: 8px;
     margin-bottom: -10px;
     font-size: 40px;
@@ -108,8 +108,8 @@ nav ul li a:hover:after{
 }
 
 .projects {
-    margin-top: 50px;
-    width:70%;
+    margin-top: 25px;
+    width:90%;
     position: absolute;
     top: 12.5%;
     left:6%;
